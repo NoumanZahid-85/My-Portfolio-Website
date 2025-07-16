@@ -37,7 +37,7 @@ css/
 
 ## 📱 Responsive Design
 
-The site is fully responsive and works on desktops, tablets, and mobile devices.
+The site is fully responsive and works on desktops, tablets, and mobile devices also.
 
 ## 📬 Contact
 
